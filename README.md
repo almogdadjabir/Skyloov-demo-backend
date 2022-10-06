@@ -1,8 +1,8 @@
 # Skyloov Demo Back-End
 
-I Used Node js with Express plus MongoDB.
+I Used Node.js with Express plus MongoDB.
 
 # The Project Content:
-- list of properties.
-- add properties to the wishlist.
-- filtering properties.
+- List of properties with pagination.
+- Add properties to the wishlist.
+- Filtering properties.
